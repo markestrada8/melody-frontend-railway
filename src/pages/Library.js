@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { getSongs, deleteSong } from '../redux/actions/songs';
 import { useDispatch, useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
-import { CircularProgress } from '@material-ui/core';
+import { CircularProgress } from '@mui/material';
 
 import './Library.css';
 

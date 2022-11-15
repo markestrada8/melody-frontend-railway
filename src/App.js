@@ -5,7 +5,7 @@ import Navigation from '../src/components//Navigation/Navigation';
 import Compose from '../src/pages/Compose';
 import Revise from '../src/pages/Revise';
 import Library from './pages/Library';
-import Footer from './components/Footer/Footer';
+// import Footer from './components/Footer/Footer';
 
 import './App.css';
 
